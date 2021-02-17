@@ -17,7 +17,7 @@ h1 {
 }
 
 #header2 {
-    text-align: center;
+    /* text-align: center; */
     font-family: 'Lora', serif;
     color: rgb(70, 35, 224);
     font-size: 2em;
